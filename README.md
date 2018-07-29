@@ -19,6 +19,6 @@ bamazonManager.js contains 4 prompts:
   Add new product: allows additional prompts to add a new product to the database table
 
 
-Demo of bamazonCustomer.js: https:Demo//drive.google.com/file/d/1DcpOjKCAYZYjO1XXVc7cCRV_NA9CY6WC/view
+Demo of bamazonCustomer.js: https://drive.google.com/file/d/1DcpOjKCAYZYjO1XXVc7cCRV_NA9CY6WC/view
 
 Demo of bamazonManager.js: https://drive.google.com/file/d/1aZIBdY5t79UW372wiy8D48uA2FG-uJlw/view
